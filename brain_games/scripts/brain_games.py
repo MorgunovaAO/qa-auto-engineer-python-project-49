@@ -1,4 +1,4 @@
-from brain_games/scripts/greet.py import greet
+from brain_games.greet import greet
 
 def main():
     greet()

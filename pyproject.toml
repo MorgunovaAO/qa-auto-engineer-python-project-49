@@ -1,5 +1,5 @@
 [project]
-name = "qa-auto-engineer-python-project-49"
+name = "hexlet-code"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -19,4 +19,4 @@ dev = [
 ]
 
 [project.scripts]
-brain-games = "brain_games.scripts.main:main"
+brain-games = "brain_games.scripts.brain_games:main"
