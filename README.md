@@ -25,6 +25,7 @@ cd qa-auto-engineer-python-project-49
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 Примеры установки пакета, запуска игры, победы и поражения игрока:
 * Игра «Проверка на чётность»: https://asciinema.org/a/A5ygGTAe3twMiNbG
+* Игра «Калькулятор»: https://asciinema.org/a/fRLrQRsyUVsjlGyG
 ---
 
 <details>
