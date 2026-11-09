@@ -26,6 +26,7 @@ cd qa-auto-engineer-python-project-49
 Примеры установки пакета, запуска игры, победы и поражения игрока:
 * Игра «Проверка на чётность»: https://asciinema.org/a/A5ygGTAe3twMiNbG
 * Игра «Калькулятор»: https://asciinema.org/a/fRLrQRsyUVsjlGyG
+* Игра «НОД»: https://asciinema.org/a/Sq2I73IjbIjVN5Yw
 ---
 
 <details>
