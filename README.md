@@ -28,6 +28,7 @@ cd qa-auto-engineer-python-project-49
 * Игра «Калькулятор»: https://asciinema.org/a/fRLrQRsyUVsjlGyG
 * Игра «НОД»: https://asciinema.org/a/Sq2I73IjbIjVN5Yw
 * Игра «Арифметическая прогрессия»: https://asciinema.org/a/nit2rFzmS8BTzqfG
+* Игра «Простое ли число?»: https://asciinema.org/a/rTHHuzNg0W4DLZ91
 ---
 
 <details>
