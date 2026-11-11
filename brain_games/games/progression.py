@@ -4,6 +4,7 @@ import random
 def make_progression(start, step, length):
     return [start + index * step for index in range(length)]
 
+
 def get_question_and_answer():     
     start = random.randint(0, 20)
     step = random.randint(1, 10)
