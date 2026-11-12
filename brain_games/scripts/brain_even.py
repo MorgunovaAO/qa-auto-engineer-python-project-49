@@ -7,7 +7,7 @@ def main():
     print("Welcome to the Brain Games!")
     name = welcome_user()
     
-    description = "Answer 'yes' if the number is even, otherwise answer 'no'."
+    description = 'Answer "yes" if the number is even, otherwise answer "no".'
     if run_game(description, get_question_and_answer):
         print(f'Congratulations, {name}!')
     else:
