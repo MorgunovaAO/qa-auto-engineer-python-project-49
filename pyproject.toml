@@ -1,7 +1,8 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "A set of five console games built on the principle of popular mobile apps for brain training (brain-even, brain-calc, brain-gcd, brain-prime, brain-progression)."
+authors = [{name = "MorgunovaAO"}]
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
