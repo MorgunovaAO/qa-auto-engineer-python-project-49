@@ -1,6 +1,8 @@
 import random
 
 
+DESCRIPTION = "What number is missing in the progression?"
+
 def make_progression(start, step, length):
     return [start + index * step for index in range(length)]
 

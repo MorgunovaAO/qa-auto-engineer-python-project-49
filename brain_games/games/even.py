@@ -1,6 +1,8 @@
 import random
 
 
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
+
 def get_question_and_answer():    
     number = random.randint(0, 100)
     question = number

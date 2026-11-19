@@ -1,12 +1,14 @@
 import operator
 import random
 
+
+DESCRIPTION = "What is the result of the expression?"
+
 ops = {
     '+': operator.add,
     '-': operator.sub,
     '*': operator.mul,
     } 
-
 
 def get_question_and_answer():
     num_1 = random.randint(0, 100)
