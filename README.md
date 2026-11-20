@@ -8,7 +8,7 @@
 
 [![Security](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=security_rating)](https://sonarcloud.io/dashboard?id=MorgunovaAO_qa-auto-engineer-python-project-49)
 
-[![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=maintainability_rating)](https://sonarcloud.io/dashboard?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+[![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=morgunova:hexlet-code&metric=maintainability_rating)](https://sonarcloud.io/dashboard?id=MorgunovaAO_qa-auto-engineer-python-project-49)
 
 Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
 
