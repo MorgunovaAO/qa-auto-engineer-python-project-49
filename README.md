@@ -2,13 +2,25 @@
 
 [![hexlet-check](https://github.com/MorgunovaAO/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MorgunovaAO/qa-auto-engineer-python-project-49/actions)
 
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/dashboard?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
 
-[![Reliability](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
 
-[![Security](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=security_rating)](https://sonarcloud.io/dashboard?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+[![Lines of code](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
 
-[![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=maintainability_rating)](https://sonarcloud.io/dashboard?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+
+[![Maintainability issues](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=software_quality_maintainability_issues)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+
+[![Reliability issues](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=software_quality_reliability_issues)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+
+[![Security issues](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=software_quality_security_issues)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
+
+[![Maintainability issues](https://sonarcloud.io/api/project_badges/measure?project=MorgunovaAO_qa-auto-engineer-python-project-49&metric=software_quality_maintainability_issues)](https://sonarcloud.io/summary/new_code?id=MorgunovaAO_qa-auto-engineer-python-project-49)
 
 Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
 
